@@ -1,3 +1,7 @@
+---
+format: html
+theme: litera
+---
 # Nandani Arora  
 
 📧 nandaniarora333@gmail.com | 📞 672-336-9522 | 
