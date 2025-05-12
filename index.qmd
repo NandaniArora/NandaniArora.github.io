@@ -1,9 +1,8 @@
 ---
 format:
   html:
-    theme: litera  # You can also try: flatly, litera, journal
-    toc: false
-    number-sections: false
+    theme: litera
+    css: styless.css
 ---
 # Nandani Arora  
 
