@@ -1,8 +1,9 @@
 ---
 format:
   html:
-    theme: cosmos # Try others: journal, flatly, minty, pulse, litera, darkly
-    css: styles.css  # optional custom styling
+    theme: litera  # You can also try: flatly, litera, journal
+    toc: false
+    number-sections: false
 ---
 # Nandani Arora  
 
