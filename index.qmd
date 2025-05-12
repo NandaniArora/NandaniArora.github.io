@@ -1,6 +1,8 @@
 ---
-format: html
-theme: litera
+format:
+  html:
+    theme: cosmos # Try others: journal, flatly, minty, pulse, litera, darkly
+    css: styles.css  # optional custom styling
 ---
 # Nandani Arora  
 
